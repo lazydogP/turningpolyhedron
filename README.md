@@ -3,9 +3,11 @@ Automatically exported from code.google.com/p/turningpolyhedron
 
 **!! IMPORTANT !!** The code is NOT mine. I, lazydogP, just export from Google Code for researching.
 
+Author : [https://code.google.com/u/112002686362744267314/](https://code.google.com/u/112002686362744267314/)
+
 The code is under GNU GPL v3 license.
 
-------------------------------------------------------------Original README Below------------------------------------------------------------
+---------------------------------------------------Original README Below---------------------------------------------------
 
 a clone and enhancement to popular game Bloxorz
 
